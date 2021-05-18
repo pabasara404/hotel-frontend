@@ -1,0 +1,62 @@
+.appBodyContact{
+    display: flex;
+    display:inline-flex;
+    align-items: center;
+    padding: 40px;
+}
+.leftBody{
+    background-color: antiquewhite;
+    padding: 80px;
+    height: 395px;
+    border-radius: 10px;
+}
+table {
+    padding: 10px;
+}
+input[type=text] {
+    border: 1px;
+    border-bottom: 2px solid brown;
+    margin-left: 10px;
+    width: 100%;
+    padding: 5px;
+    background-color: antiquewhite;
+  }
+  input[type=text]:hover{
+      background-color: rgb(224, 211, 193);
+  }
+  textarea{
+      border:2px solid brown;
+      width: 100%;
+      background-color: antiquewhite;
+      border-radius: 7px;
+
+  }
+  textarea:hover{
+    background-color: rgb(224, 211, 193);
+}
+  button{
+      padding: 10px;
+      background-color: rgb(240, 198, 144);
+      border-color: brown;
+      border-radius: 5px;
+      padding-left: 30px;
+      padding-right: 30px;
+  }
+  button:hover{
+    background-color: antiquewhite;
+
+  }
+.rightBody{
+    padding-left: 50px;
+}
+.card{
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+.card h1{
+    padding: 0 !important;
+}
+.card:hover{
+    background-color: rgb(236, 233, 233);
+}
