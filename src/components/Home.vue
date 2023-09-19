@@ -69,7 +69,7 @@ import octaRoomImage from "../assets/5.jpg";
         },
         {
           title: "Hexa",
-          description: "A room assigned to 6 people.",
+          description: "A room assigned to six people.",
           imageUrl: octaRoomImage, // Replace with the path to your image
         },
       ],
